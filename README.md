@@ -6,7 +6,11 @@ Hello! I'm Daniiel, a passionate student in HYF. Ready to learn, and looking for
 
 ## 🛠️ Technologies & Tools
 
-### Languages
+- HTML CSS
+- JavaScript
+- Github
+
+## 🗺️ Languages
 
 - Ukrainian
 - Russian
@@ -25,6 +29,12 @@ Thanks for stopping by, and I look forward to connecting with you soon!
 
 ---
 
-<img src="./gif/cool-dinosaur.gif" alt="dino" width="100%" height="90">
+<div align="center">
+  <img src="./gif/fireplace.gif" width="200" />
+   <img src="./gif/fireplace.gif" width="200" />
+    <img src="./gif/fireplace.gif" width="200" />
+</div>
+
+
 
 
