@@ -25,6 +25,6 @@ Thanks for stopping by, and I look forward to connecting with you soon!
 
 ---
 
-<img src="./gif/cool-dinosaur.gif" alt="dino" width="100%" height="40">
+<img src="./gif/cool-dinosaur.gif" alt="dino" width="100%" height="60">
 
 
