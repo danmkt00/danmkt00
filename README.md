@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile!
 
-## 👨 About me
+## 👨 About me 
 
 Hello! I'm Daniiel, a passionate student in HYF. Ready to learn, and looking forward to becoming a programer.
 
@@ -25,7 +25,6 @@ Thanks for stopping by, and I look forward to connecting with you soon!
 
 ---
 
-![](/gif/cool-dinosaur.gif)
-![](/gif/cool-dinosaur.gif)
-![](/gif/cool-dinosaur.gif)
+<img src="./gif/cool-dinosaur.gif" alt="dino" width="100%" height="40">
+
 
