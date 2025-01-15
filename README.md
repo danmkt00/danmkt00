@@ -9,6 +9,7 @@ Hello! I'm Daniiel, a passionate student in HYF. Ready to learn, and looking for
 - HTML CSS
 - JavaScript
 - Github
+- React
 
 ## 🗺️ Languages
 
