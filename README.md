@@ -6,10 +6,9 @@ Hello! I'm Daniiel, a passionate student in HYF. Ready to learn, and looking for
 
 ## 🛠️ Technologies & Tools
 
-- HTML CSS
-- JavaScript
-- Github
-- React
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danmkt00&layout=compact&hide=html,css&langs_count=10&theme=transparent)
+
+[![Daneil's GitHub stats](https://github-readme-stats.vercel.app/api?username=danmkt00&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🗺️ Languages
 
