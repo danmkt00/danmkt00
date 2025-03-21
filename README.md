@@ -12,9 +12,9 @@ Hello! I'm Daniiel, a passionate student in HYF. Ready to learn, and looking for
 ## 🗺️ Languages
 
 - Ukrainian
-- Russian
 - Romanian
 - English
+- Russian
 
 <!-- ### Web Development -->
 
